@@ -2141,12 +2141,13 @@ input, select, textarea {
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: #eee;
-					color: rgba(255, 255, 255, 0.75);
+					color: rgba(55, 55, 55, 0.75);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 1.0em;
 					letter-spacing: 0.25em;
 					height: 5em;
+					font-weight: 900;
 					line-height: 5em;
 					-moz-transition: all .25s ease-in-out;
 					-webkit-transition: all .25s ease-in-out;
